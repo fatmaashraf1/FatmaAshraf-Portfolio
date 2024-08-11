@@ -1,0 +1,25 @@
+[
+  {
+    "title": "Student Affairs Website",
+    "imageSrc": "projects/students-website.png",
+    "description": "The project is built mainly for IS231 Course project.",
+    "skills": ["Python", "HTML","CSS", "Django", "SQLite"],
+    "source": "https://github.com/fatmaashraf1/Student-Affairs-Website"
+  },
+  {
+    "title": "Quraan Kareem | قرآن كريم",
+    "imageSrc": "projects/quraan-website.png",
+    "description": "A user-friendly website that provides Quran with three sheikhs, along with features for listening, downloading, and prayer times.",
+    "skills": ["HTML", "CSS"],
+    "demo": "https://fatmaashraf1.github.io/Quraan-kareem-website/",
+    "source": "https://github.com/fatmaashraf1/Quraan-kareem-website"
+  },
+  {
+    "title": "180 Daraga",
+    "imageSrc": "projects/180daraga.png",
+    "description": "180 Daraga website streamlines student activity operations, enhancing team collaboration and expanding outreach.",
+    "skills": ["React", "Sass", "JavaScript"],
+    "demo": "https://180daraga.com/",
+    "source": "https://github.com/180daraga"
+  }
+]

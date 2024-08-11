@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+
+:root {
+  /* Colours */
+  --color-text: #fff;
+  --color-primary: #720455;
+  --color-secondary: #3C0753;
+  --color-dark: #030637;
+  --color-bg: #392467;
+
+  /* Fonts */
+  --font: "Varela Round", sans-serif;
+}

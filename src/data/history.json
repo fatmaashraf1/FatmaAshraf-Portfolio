@@ -1,0 +1,36 @@
+[
+  {
+    "role": "CIB Summer Internship",
+    "organisation": "CIB Egypt",
+    "startDate": "July 2024",
+    "endDate": "Aug 2024",
+    "experiences": [
+      "Learned about technologies of Digital Transformation and Fintech.",
+      "Gained insights into protecting digital assets and managing tech risks",
+      "Explored the future of finance with blockchain and new financial technologies."
+    ],
+    "imageSrc": "history/cib.png"
+  },
+  {
+    "role": "Expert Coder",
+    "organisation": "Scala AI",
+    "startDate": "June 2024",
+    "endDate": "Aug 2024",
+    "experiences": [
+      "Evaluating the quality of AI-generated code, including human-readable summaries.",
+      "Validating the input used to train the model."
+    ],
+    "imageSrc": "history/scalaAI.png"
+  },
+  {
+    "role": "Teaching Assistant",
+    "organisation": "Mathematics Teacher - Mr Omar Sherbeni",
+    "startDate": "Jan 2022",
+    "endDate": "Jan 2023",
+    "experiences": [
+      "Teaching some math concepts to help students solve mathematical problems.",
+      "Mentoring and evaluating student progress at 2nd secondary level."
+    ],
+    "imageSrc": "history/omar_sherbini.jpg"
+  }
+]

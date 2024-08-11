@@ -1,0 +1,76 @@
+@import "../../vars.css";
+
+.container {
+  position: relative;
+  background-color: rgba(12, 12, 12, 0.6);
+  border-radius: 15px;
+  padding: 72px;
+  margin-top: 129px;
+  padding-bottom: 45px;
+  z-index: 1;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.title {
+  color: var(--color-text);
+  font-size: 35px;
+  font-weight: 700;
+  letter-spacing: 1.75px;
+  text-transform: uppercase;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+textarea,
+input {
+  width: 100%;
+  margin: 13px 0;
+  border-radius: 7px;
+  padding: 10px 15px;
+  border: 3px solid var(--color-primary);
+  background-color: azure;
+}
+
+.successMessage {
+  color: white;
+  margin: 5px 0;
+}
+
+.errorMessage {
+  color: red;
+  font-size: 14px;
+}
+
+.inputError {
+  background-color: #f8d7da; /* Light red background */
+  border: 2px solid #f5c6cb; /* Red border */
+}
+
+button {
+  cursor: pointer;
+  text-align: center;
+  padding: 7px 25px;
+  font-size: 18px;
+  border: none;
+  margin-top: 15px;
+  align-self: center;
+  border-radius: 3px;
+  background: var(--color-primary);
+  color: white;
+}
+
+button:hover {
+  background-color: #39246782;
+}
+
+@media screen and (max-width: 830px) {
+  .container {
+    background-color: transparent;
+    padding-left: 0;
+    padding-right: 0;
+  }
+}

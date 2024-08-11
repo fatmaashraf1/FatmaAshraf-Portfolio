@@ -103,9 +103,19 @@
 @media screen and (max-width: 830px) {
   .container {
     flex-direction: column-reverse;
+    margin-top: 60px;
   }
 
   .content {
     align-items: center;
+  }
+
+  .heroImg{
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
+  .description{
+    font-size: 25px;
   }
 }

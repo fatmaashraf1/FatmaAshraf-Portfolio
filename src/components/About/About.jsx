@@ -15,9 +15,13 @@ export const About = () => {
               <h3>Education</h3>
               <div className={styles.collage}>
                 <p>Cairo University</p>
-                <p>September 2021 - Present</p>
+                <p>2021 - Present</p>
               </div>
-              <p>Bachelor of Science in Computer Science - Computer Science Major (GPA: 3.4/ 4.00)</p>  
+              <p>Bachelor’s Degree
+                <br />
+                Faculty of Computers and Artificial Intelligence 
+                <br />
+                Computer Science Major (GPA: 3.4/ 4.00)</p>  
             </div>
           </li>
         </ul>
